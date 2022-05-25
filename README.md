@@ -1,11 +1,18 @@
 # 💫About Me :
 🔭 I’m currently working on Quikieapps.
+
 🌱 I’m currently learning more about Node.js.
+
 👯 I’m looking to collaborate on Medium.
+
 🤔 Wanna be Ios Dev but don't have Macbook.
+
 💬 Ask me about Flutter or any tech-related stuff.
+
 📫 How to reach me: My website https://cutt.ly/6HEaqeM
+
 😄 Pronouns: He/His
+
 ⚡ Fun fact: I can easily beat you in pani puri.
 
 ## 🌐Socials
