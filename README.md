@@ -1,7 +1,7 @@
 # 💫About Me :
-🔭 I’m currently working on Quikieapps.
+🔭 I’m currently working on Proso.ai.
 
-🌱 I’m currently learning more about Node.js.
+🌱 I’m currently learning more about Node.js and Machine Learning.
 
 👯 I’m looking to collaborate on Medium.
 
